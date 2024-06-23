@@ -1,0 +1,123 @@
+/* This allows us to make this each webpage look more consistent for */
+.navtop {
+    background: #3c2886;
+    color: #ffb40c;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+/* General body styling */
+body {
+    font-family: 'CallunaSans-Bold', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Dashboard header styling */
+.dashboard-header {
+    background: #3c2886; /* We picked Laurier colours for our website */
+    color: #ffb40c;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.dashboard-header a{
+    color: #ffb40c;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+/* Improved dashboard content styling */
+.dashboard-content {
+    margin: 20px auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 8px;
+    max-width: 800px; /* Adjust content width */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Styling for buttons for a more modern and consistent look */
+input[type="button"], button {
+    background-color: #3c2886;
+    border: none;
+    color: #ffff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+input[type="button"]:hover, button:hover {
+    background-color: #0056b3;
+}
+
+/* Styling for forms to make them more appealing */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input[type="text"], input[type="password"], input[type="number"] {
+    padding: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+label {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+/* Button container */
+.button-container {
+    text-align: left; /* Align buttons to the left */
+    padding: 10px 0; /* Give some space above the buttons */
+}
+
+/* Small button styling */
+.small-button {
+    background-color: #3c2886;
+    border: none;
+    color: white;
+    padding: 10px 20px; /* Adjust padding as needed */
+    margin-right: 10px; /* Adds some margin to the right */
+    font-size: 16px; /* Adjust font size as needed */
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    display: inline-block; /* Makes it so that the buttons align side by side */
+    width: auto; /* Removes the full width styling */
+}
+
+.small-button:hover {
+    background-color: #0056b3;
+}
+
+
+
+/* Responsive design adjustments */
+@media screen and (max-width: 768px) {
+    .dashboard-content {
+        margin: 10px;
+        padding: 15px;
+    }
+
+    .dashboard-header {
+        padding: 15px;
+    }
+}
