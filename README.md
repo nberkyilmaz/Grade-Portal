@@ -70,5 +70,6 @@ GradePortal is a comprehensive Student Information Management System designed to
 2. Register a new user or log in with an existing account.
 3. Use the dashboard to manage student marks, courses, and view grades.
 
+![image](https://github.com/nberkyilmaz/Grade-Portal/assets/91981362/ef12a8b8-af7d-4409-bb0b-70ea1219c29e)
 
 
