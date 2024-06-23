@@ -45,25 +45,6 @@ GradePortal is a comprehensive Student Information Management System designed to
 - MySQL 5.6 or higher
 - Web server (e.g., Apache)
 
-### Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/GradePortal.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd GradePortal
-    ```
-3. Import the database schema:
-    ```sh
-    mysql -u root -p < database/schema.sql
-    ```
-4. Configure the database connection in `config.php`:
-    ```php
-    $conn = mysqli_connect("localhost", "username", "password", "database_name");
-    ```
-
 ### Usage
 
 1. Open your web browser and navigate to the project directory (e.g., `http://localhost/GradePortal`).
