@@ -70,15 +70,5 @@ GradePortal is a comprehensive Student Information Management System designed to
 2. Register a new user or log in with an existing account.
 3. Use the dashboard to manage student marks, courses, and view grades.
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for review.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Thanks to all contributors and supporters.
 
