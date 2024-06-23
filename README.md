@@ -59,6 +59,9 @@ GradePortal is a comprehensive Student Information Management System designed to
 
 ![image](https://github.com/nberkyilmaz/Grade-Portal/assets/91981362/6357a400-61c8-452d-a8f0-c2f8774831e9)
 
+![image](https://github.com/nberkyilmaz/Grade-Portal/assets/91981362/60a05184-2245-4441-84a4-063540108643)
+
+
 
 
 
