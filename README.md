@@ -1,5 +1,5 @@
 # Grade-Portal
-Description:
+# Description:
 
 GradePortal is a comprehensive Student Information Management System designed to streamline the management of student records, grades, and course enrollments. This system provides functionalities for user registration, secure login, updating student marks, dropping courses, and displaying final grades in an organized manner.
 
